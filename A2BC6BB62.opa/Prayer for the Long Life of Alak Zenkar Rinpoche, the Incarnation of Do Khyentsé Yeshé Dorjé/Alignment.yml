@@ -1,0 +1,19 @@
+segment_sources:
+  P0CB0BC11:
+    type: origin_type
+    relation: translation
+    language: en
+  P36711981:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5bb53a6ac1804ca491ca0f11c242ac67:
+    P0CB0BC11: affe8ad3c13042a6b94932743b0e8617
+    P36711981: 4e4f0ef30f7b46afb916993444cf9d49
+  44894e087f40413392ba18a24dfdaa8a:
+    P0CB0BC11: 2db80e606b22488098260afc15a01b0e
+    P36711981: 6c1cc8157fcc4a0aba9226eb5a601939
+  d44bbc8afadf4b84b9aea54deff1753a:
+    P0CB0BC11: 465bcb06fe2d4d89b3fc8dca643ed94c
+    P36711981: e40074017fbb4cd28139c3d755285540
